@@ -1,6 +1,6 @@
 import './App.css';
 import Card from './Card';
-import Header from './Header';
+import Nav from './Nav';
 import data from './data';
 
 function App() {
@@ -20,7 +20,7 @@ function App() {
 console.log(card1.img)
   return (
     <div className="App">
-      <Header />
+      <Nav />
       {cards}
     </div>
   );

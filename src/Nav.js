@@ -1,14 +1,14 @@
 
 
 
-const Header = () => {
+const Nav = () => {
     return ( 
-        <header>
+        <nav>
             <div className="globe"><img src="./assets/earth.svg" alt="globe" /></div>
             
             <h3>my traveljournal</h3>
-        </header>
+        </nav>
      );
 }
  
-export default Header;
+export default Nav;
