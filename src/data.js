@@ -3,7 +3,7 @@ const data = [{
     img: "./assets/mexico.jpg",
     googleHref: "https://www.google.com/maps?q=Guadalajara&ftid=0x8428b18cb52fd39b:0xd63d9302bf865750",
     country: "mexico",
-    title: "Vibrant-colorful-culture",
+    title: "Vibrant-Colorful-Culture",
     date: "January 2022 - May 2022",
     description: "I enjoyed my time in Mexico because of the warmth and friendliness of the people. The locals were always welcoming and eager to share their culture with me. Additionally, I loved the opportunity to go cycling and explore the beautiful countryside. Guadalajara was a particularly wonderful city, with its charming historic districts and vibrant culture. I felt so at home there."
     
@@ -59,7 +59,7 @@ const data = [{
     img: "./assets/puerto-rico.jpg",
     googleHref: "https://www.google.com/maps/place/San+Jos%C3%A9,+San+Juan,+00923,+Puerto+Rico/@18.3969577,-66.0348735,12.56z/data=!4m5!3m4!1s0x8c036617bdfa15eb:0x97da39deea3c019f!8m2!3d18.4180025!4d-66.0329433",
     country: "puerto rico",
-    title: "Training in Paradise",
+    title: "Training In Paradise",
     date: "January 2014",
     description: "I had an unforgettable experience on my winter swim training trip to Puerto Rico with Calvin University's swim team. The warm weather and crystal clear waters were a welcome change from the colder temperatures and indoor pools we were used to. We trained hard every day, pushing ourselves to improve and achieve our goals. The coaches and team members were supportive and encouraging, creating a great team dynamic. The trip was not only an opportunity to improve our swimming skills but also a chance to bond and make lasting memories with my teammates. The culture and beauty of Puerto Rico was a bonus, being able to explore the island, its food and its people was an amazing experience."  
 },
@@ -68,7 +68,7 @@ const data = [{
     img: "./assets/japan.jpg",
     googleHref: "https://www.google.com/maps/place/Tokyo,+Japan/@35.5079446,139.2093999,9z/data=!3m1!4b1!4m5!3m4!1s0x605d1b87f02e57e7:0x2e01618b22571b89!8m2!3d35.6761919!4d139.6503106",
     country: "japan",
-    title: "Discovering the Authentic Japan",
+    title: "Discovering The Authentic Japan",
     date: "August 2013",
     description: "I had the privilege of visiting Japan many years ago and reconnecting with my former Japanese exchange student, Takuya. He was the perfect guide, showing me the ins and outs of the country and introducing me to authentic Japanese culture. I also had the opportunity to explore the bustling metropolis of Tokyo. Takuya showed me around the city, taking me to see famous landmarks such as the Tokyo Tower and the Meiji Shrine. I was amazed by the bright lights and energy of the city, and I enjoyed trying all the different street foods and shopping at the colorful markets."  
 },
