@@ -62,7 +62,7 @@ nav {
   display: flex;
   flex-direction: row;
   align-items: center;
-  width: 478px;
+  width: 420px;
   margin: 18px auto;
 }
 
@@ -122,7 +122,7 @@ a.google {
 }
 
 hr{
-  width: 478px;
+  width: 420px;
   border: 0;
   height: 1px;
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1));
