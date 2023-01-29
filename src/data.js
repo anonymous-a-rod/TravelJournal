@@ -59,7 +59,7 @@ const data = [{
     img: "./assets/puerto-rico.jpg",
     googleHref: "https://www.google.com/maps/place/San+Jos%C3%A9,+San+Juan,+00923,+Puerto+Rico/@18.3969577,-66.0348735,12.56z/data=!4m5!3m4!1s0x8c036617bdfa15eb:0x97da39deea3c019f!8m2!3d18.4180025!4d-66.0329433",
     country: "puerto rico",
-    title: "Study Abroad Experience",
+    title: "Training in Paradise",
     date: "January 2014",
     description: "I had an unforgettable experience on my winter swim training trip to Puerto Rico with Calvin University's swim team. The warm weather and crystal clear waters were a welcome change from the colder temperatures and indoor pools we were used to. We trained hard every day, pushing ourselves to improve and achieve our goals. The coaches and team members were supportive and encouraging, creating a great team dynamic. The trip was not only an opportunity to improve our swimming skills but also a chance to bond and make lasting memories with my teammates. The culture and beauty of Puerto Rico was a bonus, being able to explore the island, its food and its people was an amazing experience."  
 },
