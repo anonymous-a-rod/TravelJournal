@@ -67,7 +67,7 @@ const data = [{
     id: 8,
     img: "./assets/japan.jpg",
     googleHref: "https://www.google.com/maps/place/Tokyo,+Japan/@35.5079446,139.2093999,9z/data=!3m1!4b1!4m5!3m4!1s0x605d1b87f02e57e7:0x2e01618b22571b89!8m2!3d35.6761919!4d139.6503106",
-    country: "puerto rico",
+    country: "japan",
     title: "Discovering the Authentic Japan",
     date: "August 2013",
     description: "I had the privilege of visiting Japan many years ago and reconnecting with my former Japanese exchange student, Takuya. He was the perfect guide, showing me the ins and outs of the country and introducing me to authentic Japanese culture. I also had the opportunity to explore the bustling metropolis of Tokyo. Takuya showed me around the city, taking me to see famous landmarks such as the Tokyo Tower and the Meiji Shrine. I was amazed by the bright lights and energy of the city, and I enjoyed trying all the different street foods and shopping at the colorful markets."  
