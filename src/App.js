@@ -4,7 +4,6 @@ import Nav from './Nav';
 import data from './data';
 
 function App() {
-  const card1 = data[0];
 
   const cards = data.map((item, i, row) => {
     return (
@@ -17,7 +16,7 @@ function App() {
     )
     
   })
-console.log(card1.img)
+
   return (
     <div className="App">
       <Nav />
