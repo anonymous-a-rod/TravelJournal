@@ -28,6 +28,15 @@ const data = [{
     description: "I loved teaching in China, it was an incredibly rewarding experience. I had the opportunity to interact with locals and make many new friends. I also enjoyed cycling with my friends, exploring the countryside and seeing all the beautiful sights. The culture was so different from home, but I found it to be incredibly fascinating. I will always treasure my time in China and the memories I made there."  
 },
 {
+    id: 10,
+    img: "./assets/thailand.jpg",
+    googleHref: "https://www.google.com/maps/search/bangkok+google+maps+location/@13.7244416,100.3529157,10z/data=!3m1!4b1",
+    country: "thailand",
+    title: "My Experience in Thailand",
+    date: "March 2020",
+    description: "I found myself in the Philippines, trying to return to China but faced with flight cancellations due to travel restrictions. To overcome this challenge, I decided to book a ticket to Thailand, which proved to be an unexpected journey filled with new experiences. Aside from indulging in food, I also had the chance to explore the bustling streets of Thailand. I was captivated by the vibrant energy of the local markets and was amazed by the beauty of the country's architecture."  
+},
+{
     id: 4,
     img: "./assets/dumaguete.jpg",
     googleHref: "https://www.google.com/maps/place/Dumaguete,+Negros+Oriental,+Philippines/@9.2957317,123.2645578,14z/data=!3m1!4b1!4m5!3m4!1s0x33ab6edb788ea0f7:0xd79dfe9b5bfc37fb!8m2!3d9.3068402!4d123.3054467",
